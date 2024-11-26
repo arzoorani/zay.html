@@ -1,0 +1,80 @@
+.header {
+    background-color: black;
+    /* justify-content: center; */
+    text-align: center;
+    color: azure;
+    
+}
+.navmenu {
+  justify-content: center;
+    
+}
+
+.logo {
+  text-align: right;
+  width: 100px;
+  height: 80px;
+}
+ul.mainmenu .nav-link {
+  padding: 10px 40px;
+  color: #616060;
+}
+
+.carousel-item img {
+  height: 500px;
+}
+
+
+.carousel-container {
+  position:absolute;
+  inset: 90px 64px 64px 64px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: column;
+  z-index:2;
+  color: rgb(20, 20, 20);
+ 
+}
+.heading1 {
+  text-align: center;
+  font-size: 30px;
+  /* font-family: ui-monospace; */
+  padding-top: 20px;
+}
+.section1 {
+  text-align: center;
+  font-size: 15px;
+
+
+}
+.img {
+  width: 60%;
+
+}
+.img1 {
+  width: 70%;
+}
+
+.mt-3 {
+  margin-top: 30%;
+}
+.mt-2 {
+  margin-top: 20%;
+}
+.test-sec {
+  border: 1px solid #e3e3e3;
+  background-color: #ffffff;
+  padding: 15px;
+}
+.rating {
+  width: 100%;
+  display: inline-block;
+}
+.footer-sec{
+  background-color: darkslategrey;
+}
+
+.bg-product {
+  background: rgb(215 224 234);
+}
